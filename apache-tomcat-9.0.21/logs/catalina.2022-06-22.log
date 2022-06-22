@@ -1,0 +1,46 @@
+22-Jun-2022 12:35:11.613 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.21
+22-Jun-2022 12:35:11.615 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 4 2019 20:19:36 UTC
+22-Jun-2022 12:35:11.615 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.21.0
+22-Jun-2022 12:35:11.615 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+22-Jun-2022 12:35:11.615 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            11.6.2
+22-Jun-2022 12:35:11.615 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+22-Jun-2022 12:35:11.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/local/Cellar/openjdk@11/11.0.12/libexec/openjdk.jdk/Contents/Home
+22-Jun-2022 12:35:11.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.12+0
+22-Jun-2022 12:35:11.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Homebrew
+22-Jun-2022 12:35:11.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rabiu/Downloads/apache-tomcat-9.0.21
+22-Jun-2022 12:35:11.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rabiu/Downloads/apache-tomcat-9.0.21
+22-Jun-2022 12:35:11.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+22-Jun-2022 12:35:11.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+22-Jun-2022 12:35:11.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+22-Jun-2022 12:35:11.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rabiu/Downloads/apache-tomcat-9.0.21/conf/logging.properties
+22-Jun-2022 12:35:11.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Jun-2022 12:35:11.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+22-Jun-2022 12:35:11.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+22-Jun-2022 12:35:11.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+22-Jun-2022 12:35:11.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+22-Jun-2022 12:35:11.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rabiu/Downloads/apache-tomcat-9.0.21
+22-Jun-2022 12:35:11.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rabiu/Downloads/apache-tomcat-9.0.21
+22-Jun-2022 12:35:11.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rabiu/Downloads/apache-tomcat-9.0.21/temp
+22-Jun-2022 12:35:11.626 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/rabiu/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+22-Jun-2022 12:35:11.867 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8091"]
+22-Jun-2022 12:35:11.914 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+22-Jun-2022 12:35:11.916 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [494] milliseconds
+22-Jun-2022 12:35:11.962 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+22-Jun-2022 12:35:11.962 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.21]
+22-Jun-2022 12:35:11.968 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rabiu/Downloads/apache-tomcat-9.0.21/webapps/docs]
+22-Jun-2022 12:35:12.163 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rabiu/Downloads/apache-tomcat-9.0.21/webapps/docs] has finished in [195] ms
+22-Jun-2022 12:35:12.163 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rabiu/Downloads/apache-tomcat-9.0.21/webapps/manager]
+22-Jun-2022 12:35:12.185 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rabiu/Downloads/apache-tomcat-9.0.21/webapps/manager] has finished in [22] ms
+22-Jun-2022 12:35:12.185 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rabiu/Downloads/apache-tomcat-9.0.21/webapps/examples]
+22-Jun-2022 12:35:12.400 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rabiu/Downloads/apache-tomcat-9.0.21/webapps/examples] has finished in [215] ms
+22-Jun-2022 12:35:12.400 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rabiu/Downloads/apache-tomcat-9.0.21/webapps/ROOT]
+22-Jun-2022 12:35:12.411 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rabiu/Downloads/apache-tomcat-9.0.21/webapps/ROOT] has finished in [11] ms
+22-Jun-2022 12:35:12.412 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rabiu/Downloads/apache-tomcat-9.0.21/webapps/host-manager]
+22-Jun-2022 12:35:12.426 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rabiu/Downloads/apache-tomcat-9.0.21/webapps/host-manager] has finished in [14] ms
+22-Jun-2022 12:35:12.429 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8091"]
+22-Jun-2022 12:35:12.436 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+22-Jun-2022 12:35:12.438 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [522] milliseconds
+22-Jun-2022 12:36:42.496 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rabiu/Downloads/apache-tomcat-9.0.21/webapps/api-remote-v2.war]
+22-Jun-2022 12:36:43.911 INFO [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Jun-2022 12:36:43.919 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rabiu/Downloads/apache-tomcat-9.0.21/webapps/api-remote-v2.war] has finished in [1,423] ms
+22-Jun-2022 13:23:36.193 INFO [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/Users/rabiu/Downloads/apache-tomcat-9.0.21/conf/tomcat-users.xml]
